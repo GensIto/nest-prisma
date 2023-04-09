@@ -208,6 +208,8 @@ install
 ```
 yarn add @nestjs/passport passport @nestjs/jwt passport-jwt
 yarn add -D @types/passport-jwt
+yarn add bcrypt
+yarn add -D @types/bcrypt
 
 ```
 
